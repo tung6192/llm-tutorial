@@ -1,0 +1,6 @@
+*.pynb_
+checkpoints
+chroma_db
+*.json
+.DS_Store
+.env
